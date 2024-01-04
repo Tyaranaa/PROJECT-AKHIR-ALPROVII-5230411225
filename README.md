@@ -1,5 +1,5 @@
 # PROJECT AKHIR - SQLITE DATABASE CONNECT WITH PYTHON
-![thumbnail_github_VII]()
+![thumbnail_github_VII](https://github.com/Tyaranaa/sql-RamadaniGymnastiar-5230411225/tree/af7c7dcb493336c3c878c79fbd06123b1bd3d678)
 ## Identitas
 - **Nama:** Ramadani Gymnastiar
 - **NPM:** 5230411225
